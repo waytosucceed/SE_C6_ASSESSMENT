@@ -1,0 +1,649 @@
+{
+    "heading": "Skip Counting and Number Concepts",
+    "topics": [
+      {
+        "heading": "Skip Counting",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "Skip count the cupcakes by 2’s and tell how many cupcakes are there in total?<br><img width='60%' src='./assests/images/question/1.png'>",
+            "options": [
+              { "text": "11" },
+              { "text": "12" },
+              { "text": "10" },
+              { "text": "20" }
+            ],
+            "answer": 2,
+            "explanation": "Count by 2’s."
+          },
+          {
+            "questionNo": 2,
+            "question": "Skip count by 5’s and find out how many colours are there in total?<br><img width='60%' src='./assests/images/question/2.png'>",
+            "options": [
+              { "text": "40" },
+              { "text": "30" },
+              { "text": "35" },
+              { "text": "45" }
+            ],
+            "answer": 0,
+            "explanation": "Count by 5’s."
+          },
+          {
+            "questionNo": 3,
+            "question": "Skip count the candies by 2’s and tell how many candies are there in total?<br><img width='60%' src='./assests/images/question/3.png'>",
+            "options": [
+              { "input": "" },
+              { "input": "" },
+              { "input": "" },
+              { "input": "" }
+            ],
+            "answer": ["1","2","3","4"],
+            "explanation": "Count by 2’s."
+          },
+          {
+            "questionNo": 4,
+            "question": "Skip count by 10’s and find the total number of balloons.<br><img width='70%' src='./assests/images/question/4.png'>",
+            "options": [
+              { "text": "60" },
+              { "text": "70" },
+              { "text": "80" },
+              { "text": "90" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 5,
+            "question": "Skip count by 10’s and find the total number of butterflies.<br><img width='70%' src='./assests/images/question/5.png'>",
+            "options": [
+              { "text": "50" },
+              { "text": "40" },
+              { "text": "60" },
+              { "text": "70" }
+            ],
+            "answer": 2,
+            "explanation": "Count by 10’s."
+          }
+        ]
+      },
+      {
+        "heading": "Cardinal and Ordinal Numbers",
+        "questions": [
+          {
+            "questionNo": 6,
+            "question": "Which of the following is the ordinal number?",
+            "options": [
+              { "text": "Eleven" },
+              { "text": "Twenty two" },
+              { "text": "Fifty-eighth" },
+              { "text": "25" }
+            ],
+            "answer": 2,
+            "explanation": "Ordinal numbers tell position."
+          },
+          {
+            "questionNo": 7,
+            "question": "Which of the following is the cardinal number?",
+            "options": [
+              { "text": "First" },
+              { "text": "64th" },
+              { "text": "Fifty" },
+              { "text": "Eighty seventh" }
+            ],
+            "answer": 2,
+            "explanation": "Cardinal numbers tell us how many."
+          },
+          {
+            "questionNo": 8,
+            "question": "If the first picture is a cake, which is the fifth?<br><img width='80%' src='./assests/images/question/29.png'>",
+            "options": [
+              { "text": "Candy" },
+              { "text": "Balloons" },
+              { "text": "Cake" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 9,
+            "question": "If the first picture is an apple, which is the 7th?<br><img width='80%' src='./assests/images/question/30.png'>",
+            "options": [
+              { "text": "Apple" },
+              { "text": "Orange" },
+              { "text": "Strawberry" },
+              { "text": "Banana" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 10,
+            "question": "Write the ordinal number of the coloured fruit.<br><img width='80%' src='./assests/images/question/31.png'>",
+            "options": [
+              { "text": "Fifth" },
+              { "text": "Second" },
+              { "text": "Third" },
+              { "text": "Fourth" }
+            ],
+            "answer": 3,
+            "explanation": "Ordinal numbers tell position."
+          },
+          {
+            "questionNo": 11,
+            "question": "What is the cardinal number for Twelfth?",
+            "options": [
+              { "text": "10" },
+              { "text": "11" },
+              { "text": "12" },
+              { "text": "13" }
+            ],
+            "answer": 2,
+            "explanation": "The corresponding cardinal number for 'twelfth' is 12."
+          }
+        ]
+      },
+      {
+        "heading": "Numerals and Number Names",
+        "questions": [
+          {
+            "questionNo": 12,
+            "question": "Which of the following is written correctly as a numeral?",
+            "options": [
+              { "text": "Sixty-three — 36" },
+              { "text": "Forty-nine — 49" },
+              { "text": "Seventy-two — 27" },
+              { "text": "Eighty-four — 48" }
+            ],
+            "answer": 1,
+            "explanation": "Forty-nine is indeed represented as 49."
+          },
+          {
+            "questionNo": 13,
+            "question": "What comes after ninety eight in number names?",
+            "options": [
+              { "text": "Eighty nine" },
+              { "text": "Ninety" },
+              { "text": "Ninety nine" },
+              { "text": "Ninety seven" }
+            ],
+            "answer": 2,
+            "explanation": "After 'ninety-eight,' the next number is 'ninety-nine.'"
+          },
+          {
+            "questionNo": 14,
+            "question": "Which of the following is the numeral for seventy-five?",
+            "options": [
+              { "text": "57" },
+              { "text": "75" },
+              { "text": "85" },
+              { "text": "95" }
+            ],
+            "answer": 1,
+            "explanation": "Seventy-five is represented as 75."
+          },
+          {
+            "questionNo": 15,
+            "question": "How do you write the number 407 in words?",
+            "options": [
+              { "text": "Four hundred and seventy" },
+              { "text": "Forty-seven" },
+              { "text": "Four hundred and seventeen" },
+              { "text": "Four hundred and seven" }
+            ],
+            "answer": 3,
+            "explanation": "407 is expressed as 'four hundred and seven.'"
+          },
+          {
+            "questionNo": 16,
+            "question": "How do you write 581 in words?",
+            "options": [
+              { "text": "Five hundred and eighty-one" },
+              { "text": "Fifty-eight and one" },
+              { "text": "Five hundred and eight" },
+              { "text": "Five hundred and eighteen" }
+            ],
+            "answer": 0,
+            "explanation": "581 is written as 'five hundred and eighty-one.'"
+          }
+        ]
+      },
+      {
+        "heading": "Before, After and Between",
+        "questions": [
+          {
+            "questionNo": 17,
+            "question": "What number comes before 23?",
+            "options": [
+              { "text": "22" },
+              { "text": "24" },
+              { "text": "20" },
+              { "text": "21" }
+            ],
+            "answer": 0,
+            "explanation": "The number that comes immediately before 23 is 22."
+          },
+          {
+            "questionNo": 18,
+            "question": "Which number is between 15 and 17?",
+            "options": [
+              { "text": "14" },
+              { "text": "16" },
+              { "text": "18" },
+              { "text": "15" }
+            ],
+            "answer": 1,
+            "explanation": "The number that is directly between 15 and 17 is 16."
+          },
+          {
+            "questionNo": 19,
+            "question": "What number comes after 58?",
+            "options": [
+              { "text": "57" },
+              { "text": "59" },
+              { "text": "60" },
+              { "text": "61" }
+            ],
+            "answer": 1,
+            "explanation": "The number following 58 is 59."
+          },
+          {
+            "questionNo": 20,
+            "question": "Which number is between 33 and 35?",
+            "options": [
+              { "text": "31" },
+              { "text": "34" },
+              { "text": "36" },
+              { "text": "32" }
+            ],
+            "answer": 1,
+            "explanation": "The number that comes just before 37 is 36."
+          }
+        ]
+      },
+      {
+        "heading": "Place Value and Face Value",
+        "questions": [
+          {
+            "questionNo": 21,
+            "question": "Which number is formed by the place value blocks?<br><img width='60%' src='./assests/images/question/6.png'>",
+            "options": [
+              { "text": "134" },
+              { "text": "314" },
+              { "text": "304" },
+              { "text": "341" }
+            ],
+            "answer": 0,
+            "explanation": "There is one block of hundreds, three blocks of tens, and four blocks of ones. So the number formed by the blocks is 134."
+          },
+          {
+            "questionNo": 22,
+            "question": "What is the face value of the digit 9 in the number 593?",
+            "options": [
+              { "text": "90" },
+              { "text": "9" },
+              { "text": "900" },
+              { "text": "5" }
+            ],
+            "answer": 1,
+            "explanation": "The face value of a digit is the digit itself, regardless of its position. So, the face value of 9 in 593 is 9."
+          },
+          {
+            "questionNo": 23,
+            "question": "Which number is formed by the place value blocks?<br><img width='60%' src='./assests/images/question/7.png'>",
+            "options": [
+              { "text": "132" },
+              { "text": "203" },
+              { "text": "231" },
+              { "text": "321" }
+            ],
+            "answer": 2,
+            "explanation": "There are two blocks of hundreds, three blocks of tens, and one block of ones. So the number formed by the blocks is 231."
+          }]},
+          {
+            "heading":"Comparing and ordering numbers",
+            "questions": [
+                {
+                    "questionNo": 24,
+                    "question": "Which of the following is true?",
+                    "options": [
+                      { "text": "34 > 43" },
+                      { "text": "56 < 65" },
+                      { "text": "29 = 92" },
+                      { "text": "78 < 76" }
+                    ],
+                    "answer": 1,
+                    "explanation": "56 is less than 65, while all the other options are incorrect comparisons."
+                  },
+                  {
+                    "questionNo": 25,
+                    "question": "Which number is greater than 84?<br><img width='60%' src='./assests/images/question/8.png'>",
+                    "options": [
+                      { "text": "80" },
+                      { "text": "81" },
+                      { "text": "85" },
+                      { "text": "83" }
+                    ],
+                    "answer": 2,
+                    "explanation": "85 is greater than 84, while all other options are less than 84."
+                  },
+                  {
+                    "questionNo": 26,
+                    "question": "What symbol goes in the circle to make the statement true?<br><img width='60%' src='./assests/images/question/9.png'>",
+                    "options": [
+                      { "text": "<" },
+                      { "text": ">" },
+                      { "text": "=" }
+                    ],
+                    "answer": 1,
+                    "explanation": "There are 18 butterflies and 12 penguins. Therefore the symbol that will make the statement true is >."
+                  },
+                  {
+                    "questionNo": 27,
+                    "question": "Choose the option which shows the correct order of the following numbers from greatest to least:<br> 25, 78, 53, 44",
+                    "options": [
+                      { "text": "25, 44, 53, 78" },
+                      { "text": "78, 53, 44, 25" },
+                      { "text": "44, 25, 78, 53" },
+                      { "text": "53, 25, 78, 44" }
+                    ],
+                    "answer": 1,
+                    "explanation": "To order the numbers from greatest to least, the correct sequence is 78, 53, 44, 25."
+                  },
+                  {
+                    "questionNo": 28,
+                    "question": "Which number is smaller than 63 but greater than 52?",
+                    "options": [
+                      { "text": "64" },
+                      { "text": "50" },
+                      { "text": "70" },
+                      { "text": "58" }
+                    ],
+                    "answer": 3,
+                    "explanation": "58 is between 52 and 63, making it the correct answer. The other numbers do not fit this range."
+                  },
+                  {
+                    "questionNo": 29,
+                    "question": "What symbol goes in the blank circle to make the statement true?<br><img width='60%' src='./assests/images/question/10.png'>",
+                    "options": [
+                      { "text": "<" },
+                      { "text": ">" },
+                      { "text": "=" }
+                    ],
+                    "answer": 1,
+                    "explanation": "99 is greater than 98, so the symbol '>' is correct."
+                  }
+            ]
+          },
+          {
+            "heading": "Patterns",
+            "questions": [
+          {
+            "questionNo": 30,
+            "question": "Which shape will come next in the given pattern?<br><img width='60%' src='./assests/images/question/11.png'>",
+            "options": [
+              { "text": "","image":"./assests/images/option/1.png" },
+              { "text": "","image":"./assests/images/option/2.png" },
+              { "text": "","image":"./assests/images/option/3.png" }
+            ],
+            "answer": 2,
+            "explanation": "The pattern alternates between square, circle, and star. After the last square, the next shape is a circle."
+          },
+          {
+            "questionNo": 31,
+            "question": "Which shape will come next in the given pattern?<br><img width='60%' src='./assests/images/question/12.png'>",
+            "options": [
+              { "text": "","image":"./assests/images/option/4.png" },
+              { "text": "","image":"./assests/images/option/5.png" },
+              { "text": "","image":"./assests/images/option/6.png" }
+            ],
+            "answer": 0,
+            "explanation": "The pattern follows: star, square, circle, star. After the last star, the next shape is a square."
+          },
+          {
+            "questionNo": 32,
+            "question": "Which picture will come next in the growing pattern?<br><img width='60%' src='./assests/images/question/13.png'>",
+            "options": [
+              { "text": "","image":"./assests/images/option/7.png" },
+              { "text": "","image":"./assests/images/option/8.png" }
+            ],
+            "answer": 1,
+            "explanation": "The pattern adds 1 storey each time. From 1 storey to 2, then to 3, so the next is 4 storeys."
+          },
+          {
+            "questionNo": 33,
+            "question": "Which picture will come next in the growing pattern?<br><img width='60%' src='./assests/images/question/14.png'>",
+            "options": [
+              { "text": "","image":"./assests/images/option/9.png" },
+              { "text": "","image":"./assests/images/option/10.png" }
+            ],
+            "answer": 0,
+            "explanation": "The pattern adds 2 bubbles each time. Starting with 2, then 4, then 6, so the next is 8 bubbles."
+          },
+          {
+            "questionNo": 34,
+            "question": "Which ball will come next in the given pattern?<br><img width='60%' src='./assests/images/question/15.png'>",
+            "options": [
+              { "text": "","image":"./assests/images/option/11.png" },
+              { "text": "","image":"./assests/images/option/12.png" },
+              { "text": "","image":"./assests/images/option/13.png" }
+            ],
+            "answer": 2,
+            "explanation": "The pattern goes: football, tennis ball, basketball, then repeats. After the last tennis ball, it's basketball."
+          }]},
+          {
+            "heading": "Expanded form",
+            "questions": [
+          {
+            "questionNo": 35,
+            "question": "What is the expanded form of 245?",
+            "options": [
+              { "text": "200 + 40 + 5" },
+              { "text": "20 + 4 + 5" },
+              { "text": "240 + 5" },
+              { "text": "2 + 4 + 5" }
+            ],
+            "answer": 0,
+            "explanation": "245 can be written as 200 + 40 + 5."
+          },
+          {
+            "questionNo": 36,
+            "question": "What is the standard form of the number written as 100 + 30 + 2?",
+            "options": [
+              { "text": "123" },
+              { "text": "132" },
+              { "text": "102" },
+              { "text": "302" }
+            ],
+            "answer": 1,
+            "explanation": "100 + 30 + 2 equals 132."
+          },
+          {
+            "questionNo": 37,
+            "question": "What is the conversion of 703 to expanded form?",
+            "options": [
+              { "text": "700 + 3" },
+              { "text": "70 + 3" },
+              { "text": "700 + 0 + 3" },
+              { "text": "700 + 30" }
+            ],
+            "answer": 2,
+            "explanation": "703 can be written as 700 + 0 + 3."
+          },
+          {
+            "questionNo": 38,
+            "question": "What is the standard form of the expanded number 600 + 20 + 5?",
+            "options": [
+              { "text": "620" },
+              { "text": "652" },
+              { "text": "602" },
+              { "text": "625" }
+            ],
+            "answer": 3,
+            "explanation": "600 + 20 + 5 equals 625."
+          },
+          {
+            "questionNo": 39,
+            "question": "Which of the following is the expanded form of 512?",
+            "options": [
+              { "text": "500 + 10 + 2" },
+              { "text": "50 + 1 + 2" },
+              { "text": "5 + 12" },
+              { "text": "500 + 2" }
+            ],
+            "answer": 0,
+            "explanation": "512 can be written as 500 + 10 + 2."
+          }
+        ]
+      },
+      {
+        "heading": "Addition and subtraction using mind and fingers",
+        "questions": [
+          {
+            "questionNo": 40,
+            "question": "What is 23 + 7?",
+            "options": [
+              { "text": "29" },
+              { "text": "30" },
+              { "text": "31" },
+              { "text": "32" }
+            ],
+            "answer": 1,
+            "explanation": "Given: 4 tens and 4 ones minus 3 tens and 3 ones equals 11."
+          },
+          {
+            "questionNo": 41,
+            "question": "What is the correct answer of  <br>34 - 29?",
+            "options": [
+              { "text": "7" },
+              { "text": "6" },
+              { "text": "5" },
+              { "text": "8" }
+            ],
+            "answer": 2,
+            "explanation": "Given: 5 tens and 3 ones plus 2 tens and 1 one equals 74."
+          },
+          {
+            "questionNo": 42,
+            "question": "What is 15 + 7?",
+            "options": [
+              { "text": "22" },
+              { "text": "21" },
+              { "text": "32" },
+              { "text": "23" }
+            ],
+            "answer": 0,
+            "explanation": "Given: 2 tens and 4 ones plus 4 tens and 2 ones equals 66."
+      }
+    ]},
+      {
+        "heading": "Addition and Subtraction Using Place Value Blocks",
+        "questions": [
+          {
+            "questionNo": 43,
+            "question": "Subtract the given blocks and choose the correct answer from the given options.<br><img width='60%' src='./assests/images/question/16.png'>",
+            "options": [
+              { "text": "10" },
+              { "text": "12" },
+              { "text": "11" },
+              { "text": "13" }
+            ],
+            "answer": 2,
+            "explanation": "Given: 4 tens and 4 ones minus 3 tens and 3 ones equals 11."
+          },
+          {
+            "questionNo": 44,
+            "question": "Add the given blocks and choose the correct answer.<br><img width='60%' src='./assests/images/question/17.png'>",
+            "options": [
+              { "text": "72" },
+              { "text": "70" },
+              { "text": "73" },
+              { "text": "74" }
+            ],
+            "answer": 3,
+            "explanation": "Given: 5 tens and 3 ones plus 2 tens and 1 one equals 74."
+          },
+          {
+            "questionNo": 45,
+            "question": "Add the given blocks and choose the correct answer.<br><img width='60%' src='./assests/images/question/18.png'>",
+            "options": [
+              { "text": "66" },
+              { "text": "65" },
+              { "text": "67" },
+              { "text": "64" }
+            ],
+            "answer": 0,
+            "explanation": "Given: 2 tens and 4 ones plus 4 tens and 2 ones equals 66."
+          },
+          {
+            "questionNo": 46,
+            "question": "Subtract the given blocks and choose the correct answer from the given options.<br><img width='60%' src='./assests/images/question/19.png'>",
+            "options": [
+              { "text": "51" },
+              { "text": "52" },
+              { "text": "53" },
+              { "text": "50" }
+            ],
+            "answer": 1,
+            "explanation": "Given: 6 tens and 5 ones minus 1 ten and 3 ones equals 52."
+          },
+          {
+            "questionNo": 47,
+            "question": "Add the given blocks and choose the correct answer.<br><img width='60%' src='./assests/images/question/20.png'>",
+            "options": [
+              { "text": "68" },
+              { "text": "70" },
+              { "text": "78" },
+              { "text": "79" }
+            ],
+            "answer": 2,
+            "explanation": "Given: 4 tens and 2 ones plus 3 tens and 6 ones equals 78."
+          }
+        ]
+      },
+      {
+        "heading": "Jumping Forward and Backward",
+        "questions": [
+          {
+            "questionNo": 48,
+            "question": "Jenny started at 28 and hopped back 3 spaces. Where did she end up?<br><img width='80%' src='./assests/images/question/26.png'>",
+            "options": [
+              { "text": "25" },
+              { "text": "26" },
+              { "text": "24" },
+              { "text": "27" }
+            ],
+            "answer": 0,
+            "explanation": "Jenny started at 28 and hopped back 3 spaces: 27, 26, 25. She ended up on number 25."
+          },
+          {
+            "questionNo": 49,
+            "question": "Myra was on 33 and jumped forward 6 spaces. Where is she now?<br><img width='80%' src='./assests/images/question/27.png'>",
+            "options": [
+              { "text": "39" },
+              { "text": "37" },
+              { "text": "36" },
+              { "text": "38" }
+            ],
+            "answer": 0,
+            "explanation": "Myra started at 33 and jumped forward 6 spaces: 34, 35, 36, 37, 38, 39. She ended up on number ."
+          },
+          {
+            "questionNo": 50,
+            "question": "Michael stood on 37. He hopped back 7. Where is he now?<br><img width='80%' src='./assests/images/question/28.png'>",
+            "options": [
+              { "text": "34" },
+              { "text": "31" },
+              { "text": "32" },
+              { "text": "30" }
+            ],
+            "answer": 3,
+            "explanation": "Michael stood on 37 and hopped back 7 spaces: 36, 35, 34, 33, 32, 31, 30. He is now on number 30."
+          }
+        ]
+      }
+      
+      
+      
+    ]
+  }
+  

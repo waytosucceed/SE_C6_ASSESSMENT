@@ -1,0 +1,446 @@
+{
+    "heading": "Addition and Subtraction",
+    "topics": [
+      {
+        "heading": " Introduction to Integers",
+        
+          "questions": [
+            {
+              "questionNo": 1,
+              "question": "Which of the following statement is correct: <ol><li>The sum of the place values of 3 in the numbers 3111 and 2453 is 3300.</li><li> 400 + 70 + 3 = 437.</li><li> The face value of any digit is either less than or equal to the place value of the digit.</li><li> The product of the place value of 4 in 4321 and the face value of 7 in 372 is 280000.</li></ol>",
+              "options": [
+                { "text": "Statement 1" },
+                { "text": "Statement 2" },
+                { "text": "Statement 3" },
+                { "text": "Statement 4" }
+              ],
+              "answer": 2
+            },
+            {
+              "questionNo": 2,
+              "question": "Which of the following statements about natural numbers and whole numbers is not true?",
+              "options": [
+                { "text": "Every natural number is a whole number." },
+                { "text": "0 is a whole number" },
+                { "text": "The smallest natural number is 1." },
+                { "text": "All whole numbers are natural numbers" }
+              ],
+              "answer": 3
+            },
+            {
+              "questionNo": 3,
+              "question": "Kylie arranged the integers -5, 3, -2, 0 ,7 in ascending order. Which of the following correctly represents the order?",
+              "options": [
+                { "text": "-5, -2, 0, 3, 7" },
+                { "text": "7, 3, 0, -2, -5" },
+                { "text": "-2, -5, 0, 3, 7" },
+                { "text": "0, -2, -5, 3, 7" }
+              ],
+              "answer": 0
+            }
+          ]
+        
+        
+      },
+      {
+        "heading": "BODMAS",
+        "questions": [
+          {
+            "questionNo": 4,
+            "question": "Value of 5 × 6 - (15 ÷ 3)<sup>2</sup> is __.",
+            "options": [
+              { "text": "5" },
+              { "text": "0" },
+              { "text": "21" },
+              { "text": "12" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 5,
+            "question": "Simplify :<br> 14 - [12 ÷ (3<sup>2</sup> - 3)] × 6",
+            "options": [
+              { "text": "3" },
+              { "text": "6" },
+              { "text": "1" },
+              { "text": "2" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 6,
+            "question": "Evaluate :<br> 18 ÷ (3 + 3) × 2<sup>2</sup> - 5",
+            "options": [
+              { "text": "5" },
+              { "text": "7" },
+              { "text": "9" },
+              { "text": "13" }
+            ],
+            "answer": 1
+          }
+        ]
+      
+        
+      },
+      {
+        "heading": "Divisibility rules",
+        "questions":  [
+          {
+            "questionNo": 7,
+            "question": "Sam and Mira were playing a guessing game. Sam said, “I have a 5-digit number, 48X52 , and it’s divisible by 9. Can you guess the digit X ?” Mira replied, “The digit X is ___ .”",
+            "options": [
+              { "text": "1" },
+              { "text": "4" },
+              { "text": "6" },
+              { "text": "8" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 8,
+            "question": "During a classroom activity, a teacher asked, “Here’s a number 5AB4, which is divisible by both 4 and 3. Can you figure out the digits A and B to make this true from the following options?”",
+            "options": [
+              { "text": "A= 3 , B= 7" },
+              { "text": "A= 4, B= 2" },
+              { "text": "A= 3, B= 2" },
+              { "text": "A= 6, B= 3" }
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "heading": " Identifying even/odd numbers, Prime Numbers",
+        "questions": [
+          {
+            "questionNo": 9,
+            "question": "Which of the following is a prime number, but not part of any twin prime pair?",
+            "options": [
+              { "text": "13" },
+              { "text": "19" },
+              { "text": "23" },
+              { "text": "29" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 10,
+            "question": "Which of the following statements is not true about even and odd numbers?",
+            "options": [
+              { "text": "The sum of two odd numbers is even." },
+              { "text": "The sum of two even numbers is odd." },
+              { "text": "The product of an odd number and an even number is even." },
+              { "text": "The product of two odd numbers is odd." }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 11,
+            "question": "Number of single digit odd prime numbers are ___.",
+            "options": [
+              { "text": "1" },
+              { "text": "2" },
+              { "text": "3" },
+              { "text": "4" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 12,
+            "question": "On multiplication of an even number and odd prime number we always get ____ .",
+            "options": [
+              { "text": "a prime number" },
+              { "text": "an even number" },
+              { "text": "an odd number" },
+              { "text": "None of the above" }
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "heading": "Factors & Multiples",
+        "questions": [
+          {
+            "questionNo": 13,
+            "question": "Find the missing value in the factor tree:<br><img width='50%' src='./assests/images/question/1.jpg'>",
+            "options": [
+              { "text": "3" },
+              { "text": "7" },
+              { "text": "15" },
+              { "text": "21" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 14,
+            "question": "One day, you forgot your 4-digit PIN code! But don’t worry—you remember two important clues: The first two digits are the smallest two-digit prime number. The last two digits are the biggest two-digit number that can be divided by 4. Can you figure out your PIN?",
+            "options": [
+              { "text": "1398" },
+              { "text": "1799" },
+              { "text": "1196" },
+              { "text": "1194" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 15,
+            "question": "What is the prime factorisation of 450?",
+            "options": [
+              { "text": "2 × 3 × 5 × 5 × 5" },
+              { "text": "2 × 3 × 3 × 3 × 5" },
+              { "text": "2 × 3 × 3 × 5 × 5" },
+              { "text": "2 × 2 × 5 × 5 × 5" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 16,
+            "question": "Which of the following is the greatest?",
+            "options": [
+              { "text": "3rd multiple of 15" },
+              { "text": "4th multiple of 12" },
+              { "text": "2nd multiple of 18" },
+              { "text": "5th multiple of 10" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 17,
+            "question": "Which of the following is not a common factor of 18 and 24?",
+            "options": [
+              { "text": "2" },
+              { "text": "3" },
+              { "text": "4" },
+              { "text": "6" }
+            ],
+            "answer": 2
+          }
+        ]
+        
+      },
+      {
+        "heading": "HCF and LCM, Relation between HCF and LCM",
+        "questions":  [
+          {
+            "questionNo": 18,
+            "question": "The LCM of two numbers is 180 and their HCF is 15. If one number is 45, find the other number.",
+            "options": [
+              { "text": "90" },
+              { "text": "60" },
+              { "text": "72" },
+              { "text": "105" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 19,
+            "question": "What is the smallest number that is divisible by both 15 and 20, and whose sum of digits is divisible by 9?",
+            "options": [
+              { "text": "150" },
+              { "text": "160" },
+              { "text": "180" },
+              { "text": "225" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 20,
+            "question": "What is the largest number less than 100 that is divisible by both 18 and 24?",
+            "options": [
+              { "text": "72" },
+              { "text": "84" },
+              { "text": "96" },
+              { "text": "48" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 21,
+            "question": "HCF can be calculated for:",
+            "options": [
+              { "text": "A single number" },
+              { "text": "At least two numbers" },
+              { "text": "At most two numbers" },
+              { "text": "None of the above" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 22,
+            "question": "The sum of A and B in the following diagram is ____.<br><img width='50%' src='./assests/images/question/2.jpg'>",
+            "options": [
+              { "text": "50" },
+              { "text": "52" },
+              { "text": "54" },
+              { "text": "56" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 23,
+            "question": "The product of the HCF and LCM of two numbers is 189. If one number is 9 and their HCF is 3, find the LCM of both numbers.",
+            "options": [
+              { "text": "36" },
+              { "text": "33" },
+              { "text": "66" },
+              { "text": "63" }
+            ],
+            "answer": 3
+          }
+        ]
+        
+      },
+      {
+        "heading": "HCF and LCM word problems",
+        "questions":  [
+          {
+            "questionNo": 24,
+            "question": "A school is arranging students into equal-sized groups for a trip. There are 144 boys and 96 girls. What is the maximum number of groups that can be formed such that each group has the same number of boys and girls?",
+            "options": [
+              { "text": "24" },
+              { "text": "36" },
+              { "text": "48" },
+              { "text": "72" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 25,
+            "question": "A printer prints a page every 9 seconds, and a copier copies a page every 12 seconds. After how many seconds will both the printer and copier print and copy the page simultaneously?",
+            "options": [
+              { "text": "36 seconds" },
+              { "text": "72 seconds" },
+              { "text": "108 seconds" },
+              { "text": "144 seconds" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 26,
+            "question": "Two farmers have 128 kg and 96 kg of wheat, respectively. They want to pack both types of wheat into bags of equal weight with no leftovers. What is the maximum weight of each bag?",
+            "options": [
+              { "text": "16 kg" },
+              { "text": "24 kg" },
+              { "text": "32 kg" },
+              { "text": "48 kg" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 27,
+            "question": "Two runners start from the same point and run at constant speeds. One runs every 45 seconds, and the other runs every 60 seconds. After how many seconds will they both return to the starting point at the same time?",
+            "options": [
+              { "text": "120 seconds" },
+              { "text": "180 seconds" },
+              { "text": "240 seconds" },
+              { "text": "300 seconds" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 28,
+            "question": "A school wants to distribute 180 notebooks, 240 pens, and 300 erasers equally among the maximum number of students, ensuring each student gets the same quantity of each item. How many students can receive the items, and how many of each item will they get?",
+            "options": [
+              { "text": "30, 6, 8, 4" },
+              { "text": "40, 3, 6, 2" },
+              { "text": "60, 3, 4, 5" },
+              { "text": "65, 7, 9, 11" }
+            ],
+            "answer": 2
+          }
+        ]
+        
+      },
+      {
+        "heading": "HCF and LCM (Remainder Problems)",
+        "questions":  [
+          {
+            "questionNo": 29,
+            "question": "Find the smallest number which when increased by 7, is exactly divisible by both 40 and 60.",
+            "options": [
+              { "text": "103" },
+              { "text": "107" },
+              { "text": "112" },
+              { "text": "113" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 30,
+            "question": "Find the smallest number that leaves a remainder of 3 when divided by 6, 7, and 8.",
+            "options": [
+              { "text": "152" },
+              { "text": "168" },
+              { "text": "171" },
+              { "text": "173" }
+            ],
+            "answer": 2
+          }
+        ]
+        
+      },
+      {
+        "heading": "Series Completion",
+        "questions":  [
+          {
+            "questionNo": 31,
+            "question": "Find the missing term in the series:<br> 8, 10, 14, ?, 20",
+            "options": [
+              { "text": "13" },
+              { "text": "16" },
+              { "text": "17" },
+              { "text": "19" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 32,
+            "question": "What is the next number in this series:<br> 4, 11, 25, 46, __?",
+            "options": [
+              { "text": "56" },
+              { "text": "65" },
+              { "text": "74" },
+              { "text": "83" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 33,
+            "question": "Which term is incorrect in the given series:<br> 9, 16, 26, 36, 49?",
+            "options": [
+              { "text": "16" },
+              { "text": "26" },
+              { "text": "36" },
+              { "text": "49" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 34,
+            "question": "The last two terms of the following series are:<br> 4, -8, 8, _, _.",
+            "options": [
+              { "text": "0, 0" },
+              { "text": "1, -1" },
+              { "text": "2, -2" },
+              { "text": "-3, 3" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 35,
+            "question": "Complete the following series by adding the last term:<br> 12, 9, 7, 6, __.",
+            "options": [
+              { "text": "7" },
+              { "text": "5" },
+              { "text": "6" },
+              { "text": "8" }
+            ],
+            "answer": 2
+          }
+        ]
+        
+      }
+    ]
+  }
+  
